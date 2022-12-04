@@ -12,10 +12,15 @@ Basic EDA revealed there were ~2% missing values in energy column, there was an 
 ## File Structure
 
 grid_search_xgb.py: Performed grid search on XGBoost parameters
+
 lgm_grid_search.py: Performed grid search on LightGBM parameters
+
 grid_search_cat_boost.py: Performed grid search on CatBoost parameters
+
 model_xgb.py: XGBoost Regressor Model
+
 lgbm_run.py: LightGBM Regressor Model
+
 model_cat_boost.py: CatBoost Regressor Model
 
 
