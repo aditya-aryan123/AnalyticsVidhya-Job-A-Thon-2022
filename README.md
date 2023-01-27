@@ -27,5 +27,9 @@ model_cat_boost.py: CatBoost Regressor Model
 ## Final Result
 
 There were  6388 people on the Hacka-Thon out of which I got the rank of: 
-Public Leaderboard Rank: 142
-Private Leaderboard Rank: 187
+Public Leaderboard Rank: 141
+Private Leaderboard Rank: 186
+
+## Competition Link:
+
+https://datahack.analyticsvidhya.com/contest/job-a-thon-november-2022/
